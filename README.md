@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vaidya-patel
 - 👀 I’m interested in Data Analytics, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on anything data related! 
 - 📫 How to reach me www.linkedin.com/in/vaidya-patel
 
